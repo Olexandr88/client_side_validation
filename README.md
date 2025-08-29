@@ -1,8 +1,8 @@
 # Foundation Libraries for Client-side-validation
 
-![Build](https://github.com/LNP-BP/client_side_validation/workflows/Build/badge.svg)
-![Tests](https://github.com/LNP-BP/client_side_validation/workflows/Tests/badge.svg)
-![Lints](https://github.com/LNP-BP/client_side_validation/workflows/Lints/badge.svg)
+[![Build](https://github.com/LNP-BP/client_side_validation/workflows/Build/badge.svg)](https://github.com/LNP-BP/client_side_validation/actions/workflows/build.yml)
+[![Tests](https://github.com/LNP-BP/client_side_validation/workflows/Tests/badge.svg)](https://github.com/LNP-BP/client_side_validation/actions/workflows/test.yml)
+[![Lints](https://github.com/LNP-BP/client_side_validation/workflows/Lints/badge.svg)](https://github.com/LNP-BP/client_side_validation/actions/workflows/lint.yml)
 [![codecov](https://codecov.io/gh/LNP-BP/client_side_validation/branch/master/graph/badge.svg)](https://codecov.io/gh/LNP-BP/client_side_validation)
 
 [![crates.io](https://img.shields.io/crates/v/client_side_validation)](https://crates.io/crates/client_side_validation)
